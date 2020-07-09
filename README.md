@@ -1,4 +1,4 @@
-## 전주 비전대 project
+## project
 # DHT senser install
 ```
 git clone https://github.com/adafruit_Python_DHT.git

@@ -1,4 +1,4 @@
-Install DHT11 sensor
+### Install DHT11 sensor
 git clone https://github.com/adafruit/Adafruit_python_DHT.git
 cd Adafruit_python_DHT
 sudo python setup.py install 
@@ -40,11 +40,11 @@ git clone https://github.com/kimmingyu94/yoga  (명령어 git clone) 저장소 �
   git config
 
 
-깃허브 불러오는 방법
+### 깃허브 불러오는 방법
 git clone https://github.com/user name/repository
 
 
-vim 편집기 사용법
+### vim 편집기 사용법
 vim .vimrc <vim 편집설정하는 곳으로 들어가기
 set nu //line number
 set cindent // c문법에 맞게
@@ -54,7 +54,7 @@ if has("syntax") //syntax on
 endif
 
 
-vim 설정코드
+### vim 설정코드
 set softtabstop=4
 set bg=dark
 set expandtab

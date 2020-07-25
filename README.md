@@ -114,7 +114,7 @@ syntax on = 문법 하이라이트 on
 filetype indent on = 파일 종류에 따른 구문 강조
 set mouse=a = 커서 이동을 마우스로 가능하도록
 
-
+```
 # VNC
 
 ### 라즈베리파이 설정 변경
